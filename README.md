@@ -1,8 +1,8 @@
-# ExplainationLMPapers(personnal usage)
+# ExplanationLMPapers(personnal usage)
 
-![](https://img.shields.io/github/last-commit/Timothyxxx/ExplainationLMPapers?color=green)
+![](https://img.shields.io/github/last-commit/Timothyxxx/ExplanationLMPapers?color=green)
 
-Paper collections of explaination-based(augmented) language model.
+Paper collections of explanation-based(augmented) language model.
 
 ## Papers
 
