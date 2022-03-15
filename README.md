@@ -10,7 +10,7 @@ Paper collections of explanation-based(augmented) language model.
 
    *Sharan Narang, Colin Raffel, Katherine Lee, Adam Roberts, Noah Fiedel, Karishma Malkan*  [[pdf](https://arxiv.org/abs/2004.14546)] 2020.04
 
-2. **FiD-Ex: Improving Sequence-to-Sequence Models for Extractive Rationale Generation.** arxiv.
+2. **FiD-Ex: Improving Sequence-to-Sequence Models for Extractive Rationale Generation.** EMNLP.
 
    *Kushal Lakhotia, Bhargavi Paranjape, Asish Ghoshal, Wen-tau Yih, Yashar Mehdad, Srinivasan Iyer*  [[pdf](https://arxiv.org/abs/2012.15482)] 2020.12
 
