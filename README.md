@@ -97,16 +97,17 @@ Paper collections of explanation-based(augmented) language model.
    
 
 ### Symbolic (Special Section)
-<img src="https://www.google.com.hk/url?sa=i&url=https%3A%2F%2Fcosmosmagazine.com%2Fnature%2Fanimals%2Fleg-genes-give-spiders-segmented-heads%2F&psig=AOvVaw1pB1ue9QOH0GcKGIrpM2Em&ust=1648104691241000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDMocfS2_YCFQAAAAAdAAAAABAJ" align="middle" width="100%">
+<img src="./pics/muscle_spider.jpeg" align="middle" width="10%" style="zoom:15%;" >
 
 1. **DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs.** arxiv.
 
    *Dheeru Dua, Yizhong Wang, Pradeep Dasigi, Gabriel Stanovsky, Sameer Singh, Matt Gardner* [[pdf](https://arxiv.org/abs/1903.00161)] 2019.03
- 
+
 
 2. **Break It Down: A Question Understanding Benchmark.** TACL.
 
    *Tomer Wolfson, Mor Geva, Ankit Gupta, Matt Gardner, Yoav Goldberg, Daniel Deutch, Jonathan Berant* [[pdf](https://arxiv.org/abs/1903.00161)] 2019.03
-  
 
-   
+3. **Break It Down: A Question Understanding Benchmark.** TACL.
+
+   *Tomer Wolfson, Mor Geva, Ankit Gupta, Matt Gardner, Yoav Goldberg, Daniel Deutch, Jonathan Berant* [[pdf](https://arxiv.org/abs/1903.00161)] 2019.03
