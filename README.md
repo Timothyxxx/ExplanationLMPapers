@@ -96,6 +96,15 @@ Paper collections of explanation-based(augmented) language model.
 
    
 
-   
+### Symbolic (Special Section)
+1. **DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs.** arxiv.
+
+   *Dheeru Dua, Yizhong Wang, Pradeep Dasigi, Gabriel Stanovsky, Sameer Singh, Matt Gardner* [[pdf](https://arxiv.org/abs/1903.00161)] 2019.03
+ 
+
+2. **Break It Down: A Question Understanding Benchmark.** TACL.
+
+   *Tomer Wolfson, Mor Geva, Ankit Gupta, Matt Gardner, Yoav Goldberg, Daniel Deutch, Jonathan Berant* [[pdf](https://arxiv.org/abs/1903.00161)] 2019.03
+  
 
    
