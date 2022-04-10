@@ -96,19 +96,19 @@ Paper collections of explanation-based(augmented) language model.
 
 3. **WorldTree: A Corpus of Explanation Graphs for Elementary Science Questions supporting Multi-Hop Inference.** ACL
 
-   *Peter A. Jansen , Elizabeth Wainwright , Steven Marmorstein , Clayton T. Morrison* [[pdf]([L18-1433.pdf (aclanthology.org)](https://aclanthology.org/L18-1433.pdf))] 2018
+   *Peter A. Jansen , Elizabeth Wainwright , Steven Marmorstein , Clayton T. Morrison* [[pdf](https://aclanthology.org/L18-1433.pdf)] 2018
 
 4. **QASC: A Dataset for Question Answering via Sentence Composition.** AAAI
 
-   *Tushar Khot, Peter Clark, Michal Guerquin, Peter Jansen, Ashish Sabharwal* [[pdf]([QASC: A Dataset for Question Answering via Sentence Composition | Proceedings of the AAAI Conference on Artificial Intelligence](https://ojs.aaai.org//index.php/AAAI/article/view/6319))] 2020.04
+   *Tushar Khot, Peter Clark, Michal Guerquin, Peter Jansen, Ashish Sabharwal* [[pdf](https://ojs.aaai.org//index.php/AAAI/article/view/6319)] 2020.04
 
 5. **PRover: Proof generation for interpretable reasoning over rules.** EMNLP
 
-   *Swarnadeep Saha, Sayan Ghosh, Shashank Srivastava, Mohit Bansal* [[pdf]([PRover: Proof Generation for Interpretable Reasoning over Rules - ACL Anthology](https://aclanthology.org/2020.emnlp-main.9/))] 2020.11
+   *Swarnadeep Saha, Sayan Ghosh, Shashank Srivastava, Mohit Bansal* [[pdf](https://aclanthology.org/2020.emnlp-main.9/)] 2020.11
 
 6. **multiPRover: Generating Multiple Proofs for Improved Interpretability in Rule Reasoning.** NAACL
 
-   *Swarnadeep Saha, Prateek Yadav, Mohit Bansal* [[pdf]([multiPRover: Generating Multiple Proofs for Improved Interpretability in Rule Reasoning - ACL Anthology](https://aclanthology.org/2021.naacl-main.287/))] 2021.06
+   *Swarnadeep Saha, Prateek Yadav, Mohit Bansal* [[pdf](https://aclanthology.org/2021.naacl-main.287/)] 2021.06
 
    
 
