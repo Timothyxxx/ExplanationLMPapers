@@ -1,129 +1,135 @@
-# ExplanationLMPapers(personnal usage)
 
-![](https://img.shields.io/github/last-commit/Timothyxxx/ExplanationLMPapers?color=green)
+3. ExplanationLMPapers(personnal usage)
 
-Paper collections of explanation-based(augmented) language model.
-
-## Papers
-
-1. **WT5?! Training Text-to-Text Models to Explain their Predictions.** arxiv.
-
-   *Sharan Narang, Colin Raffel, Katherine Lee, Adam Roberts, Noah Fiedel, Karishma Malkan*  [[pdf](https://arxiv.org/abs/2004.14546)] 2020.04
-
-2. **Make Up Your Mind! Adversarial Generation of Inconsistent Natural Language Explanations.** ACL
-
-   *Oana-Maria Camburu, Brendan Shillingford, Pasquale Minervini, Thomas Lukasiewicz, Phil Blunsom* [[pdf](https://www.aclweb.org/anthology/2020.acl-main.382)] 2020.05
-
-3. **ExpBERT: Representation Engineering with Natural Language Explanations.** ACL.
-
-   *Shikhar Murty, Pang Wei Koh, Percy Liang*  [[pdf](https://arxiv.org/abs/2005.01932)] 2020.05
-
-4. **Staying True to Your Word: (How) Can Attention Become Explanation?**  ACL-repl4nlp.
-
-   *Martin Tutek, Jan Sˇnajder* [[pdf](https://www.aclweb.org/anthology/2020.repl4nlp-1.17)]
-
-5. **FiD-Ex: Improving Sequence-to-Sequence Models for Extractive Rationale Generation.** EMNLP.
-
-   *Kushal Lakhotia, Bhargavi Paranjape, Asish Ghoshal, Wen-tau Yih, Yashar Mehdad, Srinivasan Iyer*  [[pdf](https://arxiv.org/abs/2012.15482)] 2020.12
-
-6. **Training Verifiers to Solve Math Word Problems.** arxiv.
-
-   *JKarl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano, Christopher Hesse, John Schulman*  [[pdf](https://arxiv.org/abs/2110.14168)] 2021.10
-
-7. **ExCAR: Event Graph Knowledge Enhanced Explainable Causal Reasoning.** ACL
-
-   *Li Du, Xiao Ding, Kai Xiong, Ting Liu, and Bing Qin* [[pdf](https://aclanthology.org/2021.acl-long.183.pdf)] 2021
-
-8. **KACE: Generating Knowledge-Aware Contrastive Explanations for Natural Language Inference.**   ACL
-
-   *Qianglong Chen, Feng Ji, Xiangji Zeng, Feng-Lin Li,  Ji Zhang, Haiqing Chen, Yin Zhang* [[pdf](https://aclanthology.org/2021.acl-long.196)] 2021
-
-9. **Sequence to General Tree: Knowledge-Guided Geometry Word Problem Solving.** ACL
-
-   Shih-hung Tsai, Chao-Chun Liang, Hsin-Min Wang, Keh-Yih Su [[pdf](https://aclanthology.org/2021.acl-short.121)] 2021
-
-10. **Prompting Contrastive Explanations for Commonsense Reasoning Tasks.** arxiv
-
-    *Bhargavi Paranjape, Julian Michael, Marjan Ghazvininejad, Luke Zettlemoyer†, Hannaneh Hajishirzi†* [[pdf](https://arxiv.org/pdf/2106.06823.pdf)] 2021.06
-
-11. **The elephant in the interpretability room: Why use attention as explanation when we have saliency methods?**   EMNLP-BlackboxNLP
-
-    *Jasmijn Bastings, Katja Filippova* [[pdf](https://www.aclweb.org/anthology/2020.blackboxnlp-1.14)] 2021
-
-11. **KFCNet: Knowledge Filtering and Contrastive Learning Network for Generative Commonsense Reasoning.**    EMNLP 
-
-    *Haonan Li, Yeyun Gong, Jian Jiao, Ruofei Zhang, Timothy Baldwin, Nan Duan* [[pdf](http://arxiv.org/abs/2109.06704)] 2021
-
-12. **Summarize-then-Answer: Generating Concise Explanations for Multi-hop Reading Comprehension**.   EMNLP
-
-    *Naoya Inoue, Harsh Trivedi, Steven Sinha, Niranjan Balasubramanian, Kentaro Inui* [[pdf](http://arxiv.org/abs/2109.06853)] 2021.09
-
-13. **On the Challenges of Evaluating Compositional Explanations in Multi-Hop Inference: Relevance, Completeness, and Expert Ratings.** EMNLP
-
-    *Peter A. Jansen, Kelly Smith, Dan Moreno, Huitzilin Ortiz* [[pdf](http://arxiv.org/abs/2109.03334)] 2021
-
-14. **Exploiting Reasoning Chains for Multi-hop Science Question Answering.** EMNLP
-
-    *Weiwen Xu, Yang Deng, Huihui Zhang, Deng Cai, Wai Lam* [[pdf](http://arxiv.org/abs/2109.02905)] 2021
-
-15. **Chain of Thought Prompting Elicits Reasoning in Large Language Models.** arxiv
-
-    *Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Ed Chi, Quoc Le, Denny Zhou*  [[pdf](https://arxiv.org/abs/2201.11903)] 2022.01
-
-16. ***Great Truths are Always Simple*: A Rather Simple Knowledge Encoder for Enhancing the Commonsense Reasoning Capacity of Pre-Trained Models.**  ACL-ARR
-
-    Anonymous [pdf: no website] 2022
-
-### Survey
-
-1. **A Survey of the State of Explainable AI for Natural Language Processing.**  AACL-IJCNLP.
-
-   *Marina Danilevsky, Kun Qian, Ranit Aharonov, Yannis Katsis, Ban Kawas, Prithviraj Sen* [[pdf](https://aclanthology.org/2020.aacl-main.46/)] 2020.10
-
-2. **Teach Me to Explain: A Review of Datasets for Explainable Natural Language Processing.** NeurIPS.
-
-   *Sarah Wiegreffe, Ana Marasović* [[pdf](https://arxiv.org/abs/2102.12060)] 2021.02
-
-### Dataset
-
-1. **Explain Yourself! Leveraging Language Models for Commonsense Reasoning.** ACL.
-
-   *Nazneen Fatema Rajani, Bryan McCann, Caiming Xiong, Richard Socher* [[pdf](https://www.aclweb.org/anthology/P19-1487)] 2019.06
-
-2. **Explanations for CommonsenseQA: New Dataset and Models.** ACL.
-
-   *Shourya Aggarwal, Divyanshu Mandowara, Vishwajeet Agrawal, Dinesh Khandelwal, Parag Singla, Dinesh Garg* [[pdf](https://aclanthology.org/2021.acl-long.238)] 2021.09
-
-3. **WorldTree: A Corpus of Explanation Graphs for Elementary Science Questions supporting Multi-Hop Inference.** ACL
-
-   *Peter A. Jansen , Elizabeth Wainwright , Steven Marmorstein , Clayton T. Morrison* [[pdf](https://aclanthology.org/L18-1433.pdf)] 2018
-
-4. **QASC: A Dataset for Question Answering via Sentence Composition.** AAAI
-
-   *Tushar Khot, Peter Clark, Michal Guerquin, Peter Jansen, Ashish Sabharwal* [[pdf](https://ojs.aaai.org//index.php/AAAI/article/view/6319)] 2020.04
-
-5. **PRover: Proof generation for interpretable reasoning over rules.** EMNLP
-
-   *Swarnadeep Saha, Sayan Ghosh, Shashank Srivastava, Mohit Bansal* [[pdf](https://aclanthology.org/2020.emnlp-main.9/)] 2020.11
-
-6. **multiPRover: Generating Multiple Proofs for Improved Interpretability in Rule Reasoning.** NAACL
-
-   *Swarnadeep Saha, Prateek Yadav, Mohit Bansal* [[pdf](https://aclanthology.org/2021.naacl-main.287/)] 2021.06
-
+   ![](https://img.shields.io/github/last-commit/Timothyxxx/ExplanationLMPapers?color=green)
    
-
-### Symbolic (Special Section)
-<img src="./pics/muscle_spider.jpeg" align="middle" width="10%" style="zoom:15%;" >
-
-1. **DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs.** arxiv.
-
-   *Dheeru Dua, Yizhong Wang, Pradeep Dasigi, Gabriel Stanovsky, Sameer Singh, Matt Gardner* [[pdf](https://arxiv.org/abs/1903.00161)] 2019.03
-
-
-2. **Break It Down: A Question Understanding Benchmark.** TACL.
-
-   *Tomer Wolfson, Mor Geva, Ankit Gupta, Matt Gardner, Yoav Goldberg, Daniel Deutch, Jonathan Berant* [[pdf](https://arxiv.org/abs/1903.00161)] 2019.03
-
-3. **Break It Down: A Question Understanding Benchmark.** TACL.
-
-   *Tomer Wolfson, Mor Geva, Ankit Gupta, Matt Gardner, Yoav Goldberg, Daniel Deutch, Jonathan Berant* [[pdf](https://arxiv.org/abs/1903.00161)] 2019.03
+   Paper collections of explanation-based(augmented) language model.
+   
+   ## Papers
+   
+   1. **WT5?! Training Text-to-Text Models to Explain their Predictions.** arxiv.
+   
+      *Sharan Narang, Colin Raffel, Katherine Lee, Adam Roberts, Noah Fiedel, Karishma Malkan*  [[pdf](https://arxiv.org/abs/2004.14546)] 2020.04
+   
+   2. **Make Up Your Mind! Adversarial Generation of Inconsistent Natural Language Explanations.** ACL
+   
+      *Oana-Maria Camburu, Brendan Shillingford, Pasquale Minervini, Thomas Lukasiewicz, Phil Blunsom* [[pdf](https://www.aclweb.org/anthology/2020.acl-main.382)] 2020.05
+   
+   3. **ExpBERT: Representation Engineering with Natural Language Explanations.** ACL.
+   
+      *Shikhar Murty, Pang Wei Koh, Percy Liang*  [[pdf](https://arxiv.org/abs/2005.01932)] 2020.05
+   
+   4. **Staying True to Your Word: (How) Can Attention Become Explanation?**  ACL-repl4nlp.
+   
+      *Martin Tutek, Jan Sˇnajder* [[pdf](https://www.aclweb.org/anthology/2020.repl4nlp-1.17)]
+   
+   5. **FiD-Ex: Improving Sequence-to-Sequence Models for Extractive Rationale Generation.** EMNLP.
+   
+      *Kushal Lakhotia, Bhargavi Paranjape, Asish Ghoshal, Wen-tau Yih, Yashar Mehdad, Srinivasan Iyer*  [[pdf](https://arxiv.org/abs/2012.15482)] 2020.12
+   
+   6. **Training Verifiers to Solve Math Word Problems.** arxiv.
+   
+      *JKarl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano, Christopher Hesse, John Schulman*  [[pdf](https://arxiv.org/abs/2110.14168)] 2021.10
+   
+   7. **ExCAR: Event Graph Knowledge Enhanced Explainable Causal Reasoning.** ACL
+   
+      *Li Du, Xiao Ding, Kai Xiong, Ting Liu, and Bing Qin* [[pdf](https://aclanthology.org/2021.acl-long.183.pdf)] 2021
+   
+   8. **KACE: Generating Knowledge-Aware Contrastive Explanations for Natural Language Inference.**   ACL
+   
+      *Qianglong Chen, Feng Ji, Xiangji Zeng, Feng-Lin Li,  Ji Zhang, Haiqing Chen, Yin Zhang* [[pdf](https://aclanthology.org/2021.acl-long.196)] 2021
+   
+   9. **Sequence to General Tree: Knowledge-Guided Geometry Word Problem Solving.** ACL
+   
+      Shih-hung Tsai, Chao-Chun Liang, Hsin-Min Wang, Keh-Yih Su [[pdf](https://aclanthology.org/2021.acl-short.121)] 2021
+   
+   10. **Prompting Contrastive Explanations for Commonsense Reasoning Tasks.** arxiv
+   
+       *Bhargavi Paranjape, Julian Michael, Marjan Ghazvininejad, Luke Zettlemoyer†, Hannaneh Hajishirzi†* [[pdf](https://arxiv.org/pdf/2106.06823.pdf)] 2021.06
+   
+   11. **The elephant in the interpretability room: Why use attention as explanation when we have saliency methods?**   EMNLP-BlackboxNLP
+   
+       *Jasmijn Bastings, Katja Filippova* [[pdf](https://www.aclweb.org/anthology/2020.blackboxnlp-1.14)] 2021
+   
+   12. **KFCNet: Knowledge Filtering and Contrastive Learning Network for Generative Commonsense Reasoning.**    EMNLP 
+   
+       *Haonan Li, Yeyun Gong, Jian Jiao, Ruofei Zhang, Timothy Baldwin, Nan Duan* [[pdf](http://arxiv.org/abs/2109.06704)] 2021
+   
+   13. **Summarize-then-Answer: Generating Concise Explanations for Multi-hop Reading Comprehension**.   EMNLP
+   
+       *Naoya Inoue, Harsh Trivedi, Steven Sinha, Niranjan Balasubramanian, Kentaro Inui* [[pdf](http://arxiv.org/abs/2109.06853)] 2021.09
+   
+   14. **On the Challenges of Evaluating Compositional Explanations in Multi-Hop Inference: Relevance, Completeness, and Expert Ratings.** EMNLP
+   
+       *Peter A. Jansen, Kelly Smith, Dan Moreno, Huitzilin Ortiz* [[pdf](http://arxiv.org/abs/2109.03334)] 2021
+   
+   15. **Exploiting Reasoning Chains for Multi-hop Science Question Answering.** EMNLP
+   
+       *Weiwen Xu, Yang Deng, Huihui Zhang, Deng Cai, Wai Lam* [[pdf](http://arxiv.org/abs/2109.02905)] 2021
+   
+   16. **Chain of Thought Prompting Elicits Reasoning in Large Language Models.** arxiv
+   
+       *Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Ed Chi, Quoc Le, Denny Zhou*  [[pdf](https://arxiv.org/abs/2201.11903)] 2022.01
+   
+   17. ***Great Truths are Always Simple*: A Rather Simple Knowledge Encoder for Enhancing the Commonsense Reasoning Capacity of Pre-Trained Models.**  ACL-ARR
+   
+       Anonymous [pdf: no website] 2022
+   
+   18. **EIGEN: Event Influence GENeration using Pre-trained Language Models.** arxiv
+   
+       *Aman Madaan, Dheeraj Rajagopal, Yiming Yang, Abhilasha Ravichander, Eduard Hovy, Shrimai Prabhumoye*  [[pdf](https://arxiv.org/pdf/2010.11764.pdf)] 2020.10
+   
+   ### Survey
+   
+   1. **A Survey of the State of Explainable AI for Natural Language Processing.**  AACL-IJCNLP.
+   
+      *Marina Danilevsky, Kun Qian, Ranit Aharonov, Yannis Katsis, Ban Kawas, Prithviraj Sen* [[pdf](https://aclanthology.org/2020.aacl-main.46/)] 2020.10
+   
+   2. **Teach Me to Explain: A Review of Datasets for Explainable Natural Language Processing.** NeurIPS.
+   
+      *Sarah Wiegreffe, Ana Marasović* [[pdf](https://arxiv.org/abs/2102.12060)] 2021.02
+   
+   ### Dataset
+   
+   1. **Explain Yourself! Leveraging Language Models for Commonsense Reasoning.** ACL.
+   
+      *Nazneen Fatema Rajani, Bryan McCann, Caiming Xiong, Richard Socher* [[pdf](https://www.aclweb.org/anthology/P19-1487)] 2019.06
+   
+   2. **Explanations for CommonsenseQA: New Dataset and Models.** ACL.
+   
+      *Shourya Aggarwal, Divyanshu Mandowara, Vishwajeet Agrawal, Dinesh Khandelwal, Parag Singla, Dinesh Garg* [[pdf](https://aclanthology.org/2021.acl-long.238)] 2021.09
+   
+   3. **WorldTree: A Corpus of Explanation Graphs for Elementary Science Questions supporting Multi-Hop Inference.** ACL
+   
+      *Peter A. Jansen , Elizabeth Wainwright , Steven Marmorstein , Clayton T. Morrison* [[pdf](https://aclanthology.org/L18-1433.pdf)] 2018
+   
+   4. **QASC: A Dataset for Question Answering via Sentence Composition.** AAAI
+   
+      *Tushar Khot, Peter Clark, Michal Guerquin, Peter Jansen, Ashish Sabharwal* [[pdf](https://ojs.aaai.org//index.php/AAAI/article/view/6319)] 2020.04
+   
+   5. **PRover: Proof generation for interpretable reasoning over rules.** EMNLP
+   
+      *Swarnadeep Saha, Sayan Ghosh, Shashank Srivastava, Mohit Bansal* [[pdf](https://aclanthology.org/2020.emnlp-main.9/)] 2020.11
+   
+   6. **multiPRover: Generating Multiple Proofs for Improved Interpretability in Rule Reasoning.** NAACL
+   
+      *Swarnadeep Saha, Prateek Yadav, Mohit Bansal* [[pdf](https://aclanthology.org/2021.naacl-main.287/)] 2021.06
+   
+      
+   
+   ### Symbolic (Special Section)
+   
+   <img src="./pics/muscle_spider.jpeg" align="middle" width="10%" style="zoom:15%;" >
+   
+   1. **DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs.** arxiv.
+   
+      *Dheeru Dua, Yizhong Wang, Pradeep Dasigi, Gabriel Stanovsky, Sameer Singh, Matt Gardner* [[pdf](https://arxiv.org/abs/1903.00161)] 2019.03
+   
+   
+   2. **Break It Down: A Question Understanding Benchmark.** TACL.
+   
+      *Tomer Wolfson, Mor Geva, Ankit Gupta, Matt Gardner, Yoav Goldberg, Daniel Deutch, Jonathan Berant* [[pdf](https://arxiv.org/abs/1903.00161)] 2019.03
+   
+   3. **Break It Down: A Question Understanding Benchmark.** TACL.
+   
+      *Tomer Wolfson, Mor Geva, Ankit Gupta, Matt Gardner, Yoav Goldberg, Daniel Deutch, Jonathan Berant* [[pdf](https://arxiv.org/abs/1903.00161)] 2019.03
